@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishu0209
 - 👀 I’m interested in ...data science 
-- 🌱 I’m currently learning ...Machine Learning algorithms 
+- 🌱 I’m currently learning ...Machine Learning algorithms and Deep Learning
 - 💞️ I’m looking to collaborate on ...any Data Science Projects
 - 📫 How to reach me ...
 
